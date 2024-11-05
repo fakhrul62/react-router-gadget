@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": 101,
+    "category_id": "101",
+    "product_title": "ProMax Galaxy Z1",
+    "product_image": "https://i.ibb.co.com/2cFzf9V/samsung-galaxy-a05-black.webp",
+    "category": "Phone",
+    "price": 799.99,
+    "description": "A powerful smartphone with a stunning display and fast processing speed.",
+    "Specification": "Screen Size: 6.5 inches, Processor: Octa-core 2.8 GHz, RAM: 8 GB, Storage: 128 GB, Battery: 4500 mAh, Camera: 48 MP + 12 MP + 5 MP, OS: Android 12",
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 102,
+    "category_id": "101",
+    "product_title": "Techno YX Pro",
+    "product_image": "https://i.ibb.co.com/4MbjVbz/Samsung-Galaxy-A23.webp",
+    "category": "Phone",
+    "price": 599.99,
+    "description": "Affordable yet powerful, designed for an optimal mobile experience.",
+    "Specification": "Screen Size: 6.1 inches, Processor: Hexa-core 2.4 GHz, RAM: 6 GB, Storage: 64 GB, Battery: 4000 mAh, Camera: 32 MP + 8 MP, OS: Android 11",
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 103,
+    "category_id": "101",
+    "product_title": "UltraOne XS",
+    "product_image": "https://i.ibb.co.com/Jn7MfCY/720x960-2-a23-5g.webp",
+    "category": "Phone",
+    "price": 1299.99,
+    "description": "Luxury smartphone with the latest technology for unparalleled performance.",
+    "Specification": "Screen Size: 6.8 inches, Processor: Octa-core 3.0 GHz, RAM: 12 GB, Storage: 256 GB, Battery: 5000 mAh, Camera: 64 MP + 16 MP + 8 MP, OS: Android 13",
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": 104,
+    "category_id": "101",
+    "product_title": "EcoSmart M10",
+    "product_image": "https://i.ibb.co.com/zJMGLcq/Galaxy-S22-5-G-Violet-6458.jpg",
+    "category": "Phone",
+    "price": 299.99,
+    "description": "Eco-friendly and efficient smartphone with essential features.",
+    "Specification": "Screen Size: 5.9 inches, Processor: Quad-core 2.0 GHz, RAM: 4 GB, Storage: 32 GB, Battery: 3000 mAh, Camera: 13 MP, OS: Android 10",
+    "availability": true,
+    "rating": 3.9
+  },
+  {
+    "product_id": 105,
+    "category_id": "101",
+    "product_title": "FlexiPhone Q7",
+    "product_image": "https://i.ibb.co.com/b7PMPkC/galaxy-s24-fe-graphite.webp",
+    "category": "Phone",
+    "price": 699.99,
+    "description": "Flexible screen with powerful specs and a sleek design.",
+    "Specification": "Screen Size: 6.3 inches, Processor: Octa-core 2.6 GHz, RAM: 8 GB, Storage: 128 GB, Battery: 4100 mAh, Camera: 50 MP + 10 MP, OS: Android 12",
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 106,
+    "category_id": "101",
+    "product_title": "Speedster ProMax",
+    "product_image": "https://i.ibb.co.com/NZ6HHDP/F44-F8-DE4-D633-B8-E-SM-M556-Light-Green.png",
+    "category": "Phone",
+    "price": 1199.99,
+    "description": "High-speed processing with a smooth, seamless experience.",
+    "Specification": "Screen Size: 6.9 inches, Processor: Octa-core 3.1 GHz, RAM: 16 GB, Storage: 512 GB, Battery: 4800 mAh, Camera: 108 MP + 48 MP + 12 MP, OS: Android 13",
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 107,
+    "category_id": "102",
+    "product_title": "EcoBook 15X",
+    "product_image": "https://i.ibb.co.com/gPcz5Z0/Acer-Nitro-5-3-1.webp",
+    "category": "Laptop",
+    "price": 899.99,
+    "description": "High-performance laptop with an eco-friendly design, perfect for multitasking.",
+    "Specification": "Screen Size: 15.6 inches, Processor: Intel i7 11th Gen, RAM: 16 GB, Storage: 512 GB SSD, Battery: 6000 mAh, OS: Windows 11",
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 108,
+    "category_id": "102",
+    "product_title": "LiteBook Pro",
+    "product_image": "https://i.ibb.co.com/2hXv5Lf/Lenovo-Idea-Pad-Slim-3-4.webp",
+    "category": "Laptop",
+    "price": 1199.99,
+    "description": "Ultra-lightweight laptop with pro-level performance and long battery life.",
+    "Specification": "Screen Size: 14 inches, Processor: AMD Ryzen 7, RAM: 16 GB, Storage: 1 TB SSD, Battery: 7200 mAh, OS: Windows 11",
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 109,
+    "category_id": "103",
+    "product_title": "PowerFit SmartWatch",
+    "product_image": "https://i.ibb.co.com/mFStMYj/653dca4638b3b6351c03b03e-smart-watch-for-android-and-iphone.jpg",
+    "category": "Smart Watch",
+    "price": 199.99,
+    "description": "A powerful smartwatch with fitness tracking and long battery life.",
+    "Specification": "Screen Size: 1.5 inches, Battery Life: 7 days, Waterproof: Yes, Connectivity: Bluetooth, OS: WearOS",
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 110,
+    "category_id": "103",
+    "product_title": "Vision Ultra SmartWatch",
+    "product_image": "https://i.ibb.co.com/4R260vM/cmf-by-nothing-watch-pro-smartwatch-1.webp",
+    "category": "Smart Watch",
+    "price": 349.99,
+    "description": "Stylish smartwatch with advanced health and sleep tracking features.",
+    "Specification": "Screen Size: 1.7 inches, Battery Life: 10 days, Waterproof: IP68, Connectivity: Bluetooth 5.0, OS: Custom OS",
+    "availability": false,
+    "rating": 4.7
+  }
+]

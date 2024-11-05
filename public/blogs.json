@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1111,
+    "feature_image": "https://i.ibb.co/VxZdbjG/pexels-pixabay-356056.jpg",
+    "title": "The Rise of Quantum Computing",
+    "author_name": "Alice Johnson",
+    "author_image": "https://i.ibb.co/MPC515V/pexels-thomas-richard-945930195-20094341.jpg",
+    "publish_date": "2024-07-15",
+    "reading_time": 8,
+    "hashtags": ["QuantumComputing", "FutureTech", "Innovation"]
+  },
+  {
+    "id": 2222,
+    "feature_image": "https://i.ibb.co/dtfmNyj/pexels-luis-gomes-166706-546819.jpg",
+    "title": "AI: Revolutionizing the Industry",
+    "author_name": "Bob Smith",
+    "author_image": "https://i.ibb.co/gPy38k0/pexels-doquyen-1520760.jpg",
+    "publish_date": "2024-07-12",
+    "reading_time": 10,
+    "hashtags": ["AI", "Healthcare", "TechTrends"]
+  },
+  {
+    "id": 3333,
+    "feature_image": "https://i.ibb.co/NC0mQ8L/pexels-jplenio-1105379.jpg",
+    "title": "5G Networks: What You Need to Know",
+    "author_name": "Charlie Davis",
+    "author_image": "https://i.ibb.co/vPGXYbx/pexels-thatguycraig000-1546912.jpg",
+    "publish_date": "2024-07-10",
+    "reading_time": 6,
+    "hashtags": ["5G", "Networking", "TechUpdates"]
+  },
+  {
+    "id": 4444,
+    "feature_image": "https://i.ibb.co/NK3GK0n/pexels-alxs-919734.jpg",
+    "title": "Blockchain Beyond Cryptocurrency",
+    "author_name": "Dana Lee",
+    "author_image": "https://i.ibb.co/Wz0sbMx/pexels-olly-3823495.jpg",
+    "publish_date": "2024-07-08",
+    "reading_time": 12,
+    "hashtags": ["Blockchain", "Technology", "Innovation"]
+  },
+  {
+    "id": 5555,
+    "feature_image": "https://i.ibb.co/SQ9J7zg/pexels-divinetechygirl-1181271.jpg",
+    "title": "The Future of Wearable Technology",
+    "author_name": "Evan Brown",
+    "author_image": "https://i.ibb.co/DtZtHKC/pexels-manei-3211476.jpg",
+    "publish_date": "2024-07-05",
+    "reading_time": 7,
+    "hashtags": ["Wearables", "FutureTech", "Gadgets"]
+  },
+  {
+    "id": 6666,
+    "feature_image": "https://i.ibb.co/ZHMybnp/pexels-thisisengineering-3861972.jpg",
+    "title": "Cybersecurity Trends in 2024",
+    "author_name": "Fiona Green",
+    "author_image": "https://i.ibb.co/vxbh1ds/pexels-kevinbidwell-2380794.jpg",
+    "publish_date": "2024-07-02",
+    "reading_time": 9,
+    "hashtags": ["Cybersecurity", "TechTrends", "DataProtection"]
+  },
+  {
+    "id": 7777,
+    "feature_image": "https://i.ibb.co/nf9HH0V/pexels-capondesign-1261820.jpg",
+    "title": "Augmented Reality",
+    "author_name": "George White",
+    "author_image": "https://i.ibb.co/RHR2Df3/pexels-israel-oliveira-1733015-3370021.jpg",
+    "publish_date": "2024-06-30",
+    "reading_time": 11,
+    "hashtags": ["AR", "Technology", "FutureTech"]
+  }
+]
