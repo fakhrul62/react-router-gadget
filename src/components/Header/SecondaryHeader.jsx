@@ -2,8 +2,10 @@ import React from "react";
 import { Link, NavLink } from "react-router-dom";
 import { IoCartOutline, IoHeartOutline } from "react-icons/io5";
 import "./SecondaryHeader.css";
+import { getCart } from "../../utilities";
 
 const SecondaryHeader = () => {
+  const getCartData = getCart();
   return (
     <>
       <div className="bg-white">
@@ -52,9 +54,14 @@ const SecondaryHeader = () => {
           </div>
           <div className="navbar-end gap-3 *:bg-white *:w-8 *:p-2 *:h-8 *:rounded-full">
             <Link to="/dashboard">
-              <button type="button">
-                <IoCartOutline />
-              </button>
+              <div className="indicator">
+                <span className="indicator-item badge -top-2 text-xs w-5 h-5 border-sky-500 border">
+                  {getCartData.length}
+                </span>
+                <button type="button">
+                  <IoCartOutline />
+                </button>
+              </div>
             </Link>
             <Link to="/dashboard/wishlist">
               <button type="button">
